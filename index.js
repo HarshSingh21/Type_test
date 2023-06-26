@@ -11,6 +11,7 @@ let mistakes = 0;
 
 
 
+
 //Display random quotes
 const renderNewQuote = async () => {
     //Fetch content from quote api url
